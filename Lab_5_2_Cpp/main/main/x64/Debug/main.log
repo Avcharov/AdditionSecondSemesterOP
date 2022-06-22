@@ -1,0 +1,9 @@
+﻿  main.cpp
+E:\Users\avcharovh\source\repos\main\main\TSystemLinearEquation.h(14,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Users\avcharovh\source\repos\main\main\GauseMethod.h(7,12): warning C4101: 'k': unreferenced local variable
+E:\Users\avcharovh\source\repos\main\main\SystemLinearEquationWith2.h(30,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Users\avcharovh\source\repos\main\main\SystemLinearEquationWith2.h(37,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Users\avcharovh\source\repos\main\main\SystemLinearEquationWith3.h(27,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Users\avcharovh\source\repos\main\main\SystemLinearEquationWith3.h(34,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Users\avcharovh\source\repos\main\main\main.cpp(7,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.vcxproj -> E:\Users\avcharovh\source\repos\main\x64\Debug\main.exe
