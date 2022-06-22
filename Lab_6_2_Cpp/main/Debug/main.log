@@ -1,0 +1,5 @@
+﻿  main.cpp
+E:\Users\avcharovh\OneDrive - Danieli\Desktop\main\helper.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\Users\avcharovh\OneDrive - Danieli\Desktop\main\helper.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\Users\avcharovh\OneDrive - Danieli\Desktop\main\helper.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  main.vcxproj -> E:\Users\avcharovh\OneDrive - Danieli\Desktop\main\Debug\main.exe

@@ -1,0 +1,19 @@
+#include <iostream>
+
+int main() {
+int counter = 0;
+cout << "Counter is:" << counter << endl;
+
+for (int k = 0, k < 20, k ++) {
+counter += 5;
+}
+
+cout << "New counter:" << counter << endl;
+
+int j = 0;
+for (int aa = 0; aa < counter; aa ++){
+cout << j << " ";
+}
+
+return 0;
+}
